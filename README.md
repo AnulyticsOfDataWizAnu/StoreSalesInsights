@@ -14,7 +14,9 @@ BUSINESS QUESTIONS ANSWERED -
 
 This dashboard has 4 card visuals highlighting KPIs -1) Total Sales - $80.5 2)Total Cost - $82.8M 3)Profit - $2.3M 4) Total Quantity - 215K
 & a Gauge Chart showing Profit Percentage - -3%
+
 A.Key feature -  An interactive line chart that can show Total Sales/Total Cost/Profit by Year,Quarter or Month dynamically as per user selection in Page 2.
+
 a. A clustered column chart that shows Total Quantity sold by Year and Region in Page 1.
 b.A line chart that shows Total Quantity shipped by Year, Quarter & Month supported with drill down feature.
 c.A matrix that shows Total Sales Amount by Country and Year.
